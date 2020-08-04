@@ -7,6 +7,7 @@
 ### 目录
 
 - [魔改后配置说明]()
+- [Clover及OC支持情况]()
 - [安装前须做]()
 - [蓝牙解决方案]()
 - [鸣谢]()
@@ -24,6 +25,15 @@
 |   声卡   |     瑞昱 ALC298 (节点:30/99)     |
 |   网卡   |        更换为BCM 94360CS2        |
 |  读卡器  |      瑞昱 RTS5129/RTS5250S       |
+
+### Clover及OC支持情况
+#### Clover 支持情况
+- 不支持硬件：NVIDIA MX150，瑞昱 RTS5129/RTS5250S 读卡器，指纹识别
+- 支持版本：macOS High Sirra 13.6 - macOS Catalina 15.6
+#### OC 支持情况
+- 不支持硬件：NVIDIA MX150，瑞昱 RTS5129/RTS5250S 读卡器，指纹识别
+- 支持版本：macOS High Sirra 13.6 - macOS Big Sur Beta2(20A4300b)
+- 有限的主题
 
 ### 安装前需做
 
